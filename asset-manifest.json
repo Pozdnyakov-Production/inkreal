@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/inkreal/static/css/main.31d6cfe0.css",
-    "main.js": "/inkreal/static/js/main.1062e8a3.js",
+    "main.js": "/inkreal/static/js/main.109be4cd.js",
     "static/js/453.042f6385.chunk.js": "/inkreal/static/js/453.042f6385.chunk.js",
     "index.html": "/inkreal/index.html",
-    "main.1062e8a3.js.map": "/inkreal/static/js/main.1062e8a3.js.map",
+    "main.109be4cd.js.map": "/inkreal/static/js/main.109be4cd.js.map",
     "453.042f6385.chunk.js.map": "/inkreal/static/js/453.042f6385.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.1062e8a3.js"
+    "static/js/main.109be4cd.js"
   ]
 }
