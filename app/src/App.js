@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 
 // Основной компонент приложения
@@ -89,9 +89,9 @@ function HomePage() {
   const sendToTelegram = (e) => {
     e.preventDefault();
     
-    // Здесь должен быть реальный бот токен и chat ID
-    const botToken = '8226368419:AAE12JgvGBBZeoTCAi8r9wGvRI8yN9KVx8w';
-    const chatID = '5122781064';
+    // В реальном приложении здесь должен быть реальный бот токен и chat ID
+    //const botToken = 'YOUR_BOT_TOKEN';
+    //const chatId = 'YOUR_CHAT_ID';
     
     const message = `Новая заявка на татуировку!
 Имя: ${appointmentName}
