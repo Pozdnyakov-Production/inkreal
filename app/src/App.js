@@ -35,8 +35,8 @@ function Header({ currentPage, setCurrentPage, isLoggedIn, user }) {
   return (
     <header className="header">
       <div className="logo">
-        <span className="neon-text">NEON</span>
-        <span className="logo-ink">INK</span>
+        <span className="neon-text">INK </span>
+        <span className="logo-ink">REAL</span>
       </div>
       <nav className="nav">
         <button 
