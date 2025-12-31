@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/inkreal/static/css/main.31d6cfe0.css",
-    "main.js": "/inkreal/static/js/main.1062e8a3.js",
+    "main.css": "/inkreal/static/css/main.fa8987e1.css",
+    "main.js": "/inkreal/static/js/main.e736b81a.js",
     "static/js/453.042f6385.chunk.js": "/inkreal/static/js/453.042f6385.chunk.js",
     "index.html": "/inkreal/index.html",
-    "main.1062e8a3.js.map": "/inkreal/static/js/main.1062e8a3.js.map",
+    "main.fa8987e1.css.map": "/inkreal/static/css/main.fa8987e1.css.map",
+    "main.e736b81a.js.map": "/inkreal/static/js/main.e736b81a.js.map",
     "453.042f6385.chunk.js.map": "/inkreal/static/js/453.042f6385.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.1062e8a3.js"
+    "static/css/main.fa8987e1.css",
+    "static/js/main.e736b81a.js"
   ]
 }
