@@ -141,7 +141,7 @@ function HomePage() {
             </div>
             <form onSubmit={sendToTelegram}>
               <div className="form-group">
-                <label>Как Вас зовут</label>
+                <label>Как вас зовут</label>
                 <input 
                   type="text" 
                   value={appointmentName}
